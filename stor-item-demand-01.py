@@ -22,7 +22,7 @@ import xgboost as xgb
 from fbprophet import Prophet
 
 
-PATH = "D:\Data\kaggle\demand-forecasting-kernels-only"
+PATH = "D:\Data\kaggle\demand-forecasting-kernels-only" #change path
 
 print(os.listdir(PATH))
 
